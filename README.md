@@ -7,7 +7,6 @@ Full stack developer
 * 🌍  I'm based in Peru
 * 🖥️  See my portfolio at [My portafolio](http://italobejarano.com)
 * ✉️  You can contact me at [bitalofernando@gmail.com](mailto:bitalofernando@gmail.com)
-* 🚀  I'm currently working on [MDP Consulting](http://www.mdp.com.pe/)
 * 🧠  I'm learning Microservices and Clean Architecture
 
 ### Skills
